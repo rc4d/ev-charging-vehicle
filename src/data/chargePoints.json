@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cp-001",
+    "name": "Green Energy Hub",
+    "address": "123 MG Road, Bangalore",
+    "city": "Bangalore",
+    "availability": "available",
+    "availableSlots": 4,
+    "totalSlots": 6,
+    "power": "50 kW DC",
+    "pricePerUnit": 12,
+    "rating": 4.5,
+    "amenities": ["Restroom", "Cafe", "WiFi"],
+    "coordinates": { "lat": 12.9716, "lng": 77.5946 }
+  },
+  {
+    "id": "cp-002",
+    "name": "EcoCharge Station",
+    "address": "456 Whitefield Main Road",
+    "city": "Bangalore",
+    "availability": "busy",
+    "availableSlots": 1,
+    "totalSlots": 4,
+    "power": "22 kW AC",
+    "pricePerUnit": 8,
+    "rating": 4.2,
+    "amenities": ["Restroom", "Parking"],
+    "coordinates": { "lat": 12.9698, "lng": 77.7500 }
+  },
+  {
+    "id": "cp-003",
+    "name": "PowerUp Central",
+    "address": "789 Electronic City",
+    "city": "Bangalore",
+    "availability": "available",
+    "availableSlots": 8,
+    "totalSlots": 10,
+    "power": "150 kW DC",
+    "pricePerUnit": 15,
+    "rating": 4.8,
+    "amenities": ["Restroom", "Cafe", "WiFi", "Lounge"],
+    "coordinates": { "lat": 12.8399, "lng": 77.6770 }
+  },
+  {
+    "id": "cp-004",
+    "name": "Spark Charge Point",
+    "address": "321 Indiranagar",
+    "city": "Bangalore",
+    "availability": "offline",
+    "availableSlots": 0,
+    "totalSlots": 3,
+    "power": "7.4 kW AC",
+    "pricePerUnit": 6,
+    "rating": 3.9,
+    "amenities": ["Parking"],
+    "coordinates": { "lat": 12.9784, "lng": 77.6408 }
+  },
+  {
+    "id": "cp-005",
+    "name": "Volt Station Koramangala",
+    "address": "555 Koramangala 5th Block",
+    "city": "Bangalore",
+    "availability": "available",
+    "availableSlots": 2,
+    "totalSlots": 4,
+    "power": "50 kW DC",
+    "pricePerUnit": 11,
+    "rating": 4.6,
+    "amenities": ["Restroom", "Cafe", "WiFi", "EV Shop"],
+    "coordinates": { "lat": 12.9352, "lng": 77.6245 }
+  },
+  {
+    "id": "cp-006",
+    "name": "ChargeZone Mall",
+    "address": "Orion Mall, Rajajinagar",
+    "city": "Bangalore",
+    "availability": "busy",
+    "availableSlots": 0,
+    "totalSlots": 8,
+    "power": "100 kW DC",
+    "pricePerUnit": 14,
+    "rating": 4.4,
+    "amenities": ["Restroom", "Mall Access", "Valet"],
+    "coordinates": { "lat": 13.0107, "lng": 77.5556 }
+  }
+]
+
